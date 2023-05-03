@@ -1,0 +1,9 @@
+li{
+    list-style: none;
+    font-size: 22px;
+    display: flex;
+   padding: 15px 20px;
+   text-align: center;
+   justify-content: center;
+   gap: 20px;
+}

@@ -1,0 +1,44 @@
+
+
+input{
+    font-size: 18px;
+    padding: 2px 8px;
+    border-radius: 5px;
+    margin: 0px 2px;
+}
+label{
+    padding-right: 5px;
+    font-size: 20px;
+    padding-left: 8px;
+}
+.quantity{
+    display: flex;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: -20px;
+    justify-content: center;
+    
+}
+.available{
+   font-size:20px;
+  
+
+}
+button{
+    font-size: 17px;
+    padding: 4px 10px;
+   
+
+}
+.btn{
+    font-size: 17px;
+    padding: 4px 10px;
+    margin-top: 15px;
+
+}
+.bg{
+    background: #e2d7ff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
